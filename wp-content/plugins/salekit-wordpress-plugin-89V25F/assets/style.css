@@ -1,0 +1,86 @@
+.action-button .button.button-success {
+    background: #198754;
+    border-color: #198754;
+    color: #fff;
+}
+
+.action-button .button.button-danger {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.text-danger {
+    color: #dc3545;
+}
+.text-success {
+    color: #198754;
+}
+.action-button .button svg {
+    vertical-align: sub;
+}
+
+.action-button .button:hover {
+    opacity: .85;
+}
+
+#tab {
+    width: 100%;
+    height: 36px;
+}
+
+#tab ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#salekit_admin {
+    display: none;
+}
+#tab li {
+    margin: 0px;
+    padding: 0px;
+    height: 36px;
+    float: left;
+    margin-right: 20px;
+}
+
+#tab li a {
+    height: 36px;
+    line-height: 36px;
+    position: relative;
+    padding: 6px 0;
+    font-family: verdana;
+    font-size: 14px;
+    text-decoration: none;
+    color: #111;
+    font-weight: 600;
+}
+
+#tab li a:hover,
+#tab li.active-tab a {
+    background: #efefef;
+    z-index: 111;
+    border-bottom: 4px solid #109bba;
+    outline: 0;
+    box-shadow: none;
+}
+
+#data-container {
+    border-top: 2px solid #c0c0c0;
+    background: #efefef;
+    margin-top: -2px;
+}
+
+#data-container .tab-content {
+    display: none;
+}
+
+#data-container .tab-content.active {
+    display: block;
+}
+.ajax-notyfi, .ajax-notify-contact, .ajax-notify-order{
+    display: none;
+    color: #09ad25;
+    font-weight: bold;
+}

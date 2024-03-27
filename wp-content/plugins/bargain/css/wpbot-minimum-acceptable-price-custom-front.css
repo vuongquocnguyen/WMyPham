@@ -1,0 +1,475 @@
+
+.woo_minimum_accept_price-field-wrapper{
+	clear: both;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	height: auto;
+	padding-top: 30px;
+}
+
+.woo_minimum_accept_price-field-wrapper #woo_minimum_accept_price-field{
+  padding: 15px;
+  width: 100%;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  background: #0170b9;
+  border: 1px solid #0170b9;
+  color: #fff;
+  font-weight: bold;
+  transition: 0.3s ease all;
+}
+.woo_minimum_accept_price-field-wrapper #woo_minimum_accept_price-field:hover{
+  background: #3a3a3a;
+  border: 1px solid #3a3a3a;
+  color: #fff;
+  transition: 0.3s ease all;
+}
+
+
+#wpbot-map-product-modal {
+    z-index: 999999999;
+    top: 50 !important;
+    width: 450px !important;
+    height: auto !important;
+    min-height: 365px !important;
+    overflow: hidden;
+    background-color: rgba(255,255,255,1);
+    margin: 30px auto;
+    position: relative;
+    box-shadow: 3px 5px 20px #333;
+    border-radius: 8px;
+    transition: all .6s ease;
+}
+
+@media(max-width: 480px){
+  #wpbot-map-product-modal {
+    width: 100% !important;
+  }
+
+}
+
+
+.mfp-content #wpbot-map-product-modal {
+    top: 50 !important;
+}
+
+.woo-chatbot-products-bargain-modal h5{
+    text-align: center;
+    padding: 12px;
+    font-size: 18px;
+    font-weight: bold;
+    border-bottom: 1px solid #ddd;
+    color: #333;
+}
+
+.woo-chatbot-product-modal{
+  width:100%;
+  height:100px;
+  border-bottom: 1px solid #ddd;
+}
+
+.woo-chatbot-product-modal-img{
+  width: 25%;
+  padding: 10px 15px;
+
+}
+.woo-chatbot-product-modal-img img{
+  width:100%;
+  height:100% !important;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.woo-chatbot-product-bargain-modal {
+  width: 40%;
+}
+
+.woo-chatbot-product-price-modal {
+  width: 30%;
+}
+.woo-chatbot-product-price-modal, .woo-chatbot-product-bargain-modal, .woo-chatbot-product-modal-img {
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.woo-chatbot-product-title-modal ,.woo-chatbot-product-price-modal  del,.woo-chatbot-product-price-modal  del.amount, .woo-chatbot-product-price-modal ins{
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+}
+
+.woo-chatbot-products-bargain-modal .woo-chatbot-products-bargain-content{
+  width: 100%;
+  display: block;
+  padding: 15px 0px;
+}
+
+.woo-chatbot-products-bargain-modal .woo-chatbot-products-bargain-content h4{
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    line-height: 16px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    color: #333;
+}
+.woo-chatbot-products-bargain-modal .woo-chatbot-products-bargain-content p{
+  font-size: 14px;
+  text-align: center;
+  color: #333;
+}
+
+.woo-chatbot-products-bargain-modal .woo-chatbot-products-bargain-wrap{
+  width:100%;
+  padding: 0px 15px;
+}
+
+.woo-chatbot-products-bargain-modal .woo-chatbot-products-bargain-info{
+  width:100%;
+  display: block;
+  padding: 0px 0px;  
+  color: #333;
+}
+
+.woo-chatbot-products-bargain-modal .woo-chatbot-product-bargain-price,
+.woo-chatbot-products-bargain-modal .woo-chatbot-product-bargain-offer-price,
+.woo-chatbot-products-bargain-modal .woo-modal-product-bargain-offer-email{
+    display: block !important;
+    margin: 0 auto !important;
+    width: 100%;
+    height: 50px;
+    border: 1px solid #ddd !important;
+    text-align: center;
+    font-size: 30px;
+    color: #333;
+}
+
+.woo-chatbot-products-bargain-modal .woo-chatbot-products-bargain-info button.woo-chatbot-product-bargain-submit,
+.woo-chatbot-products-bargain-modal .woo-chatbot-products-bargain-info button.woo-chatbot-product-bargain-variation-submit,
+.woo-chatbot-products-bargain-modal .woo-chatbot-products-bargain-info button.woo-modal-product-bargain-price-submit,
+.woo-chatbot-products-bargain-modal .woo-chatbot-products-bargain-info button.woo-modal-product-bargain-email-submit{
+  display: block;
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  font-size: 25px;
+  margin-top: 10px;
+  cursor: pointer;
+  border: 1px solid #70aca9;
+  background: #55aba6;
+  color: #ffffff;
+  box-shadow: 0px 3px 5px rgba(0,0,0,0.3);
+  transition: 0.3s ease all;
+  line-height: 25px;
+  padding: 0px 0px;
+}
+.woo-chatbot-products-bargain-modal .woo-chatbot-products-bargain-info button.woo-chatbot-product-bargain-submit:hover,
+.woo-chatbot-products-bargain-modal .woo-chatbot-products-bargain-info button.woo-chatbot-product-bargain-variation-submit:hover,
+.woo-chatbot-products-bargain-modal .woo-chatbot-products-bargain-info button.woo-modal-product-bargain-price-submit:hover,
+.woo-chatbot-products-bargain-modal .woo-chatbot-products-bargain-info button.woo-modal-product-bargain-email-submit:hover,
+.woo-chatbot-products-bargain-modal .woo-chatbot-products-bargain-info button:hover{
+  background: #489692 !important;
+  box-shadow: 0px 3px 5px rgba(0,0,0,0.1);
+}
+
+.woo-chatbot-product-bargain-msg{
+  width:100%;
+  height: auto;
+  display: none;
+  text-align: center;
+  color:indianred;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 16px;
+  }
+
+.woo-chatbot-product-bargain-msg-success{
+  width:100%;
+  height: auto;
+  text-align: center;
+  padding: 30px 15px;
+}
+.woo-chatbot-product-bargain-msg-success h4{
+  font-size: 25px;
+  font-weight: bold;
+  color: #333;
+}
+.woo-chatbot-product-bargain-msg-success h6{
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+}
+.woo-chatbot-product-bargain-msg-success p{
+  font-weight: bold;
+  padding-bottom: 0px;
+  color: #333;
+
+}
+.woo-chatbot-product-bargain-msg-success p b{
+  color: indianred;
+  font-size: 16px;
+}
+
+.woo-chatbot-product-bargain-msg-success .woo-chatbot-product-bargain-btn{
+  width: 100%;
+  display: block;
+  clear: both;
+  margin-top: 25px;
+  font-weight: bold;
+}
+
+.qcld-modal-bargin-confirm-btn-yes, 
+.qcld-modal-bargin-confirm-btn-no,
+.qcld-modal-bargin-confirm-btn-checkout,
+.qcld-modal-bargin-confirm-add-to-cart,
+.qcld-chatbot-bargin-confirm-btn,
+.qcld-modal-bargin-add-to-cart{
+  color: #000000;
+  background-image: linear-gradient(to right, #868afa 0%, #8fd3f4 51%, #2faafa 100%);
+  background-size: 200% auto;
+  box-shadow: 0 5px 15px #c3c3c3;
+  border: 1px solid #ffffff;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 50px;
+  transition: 0.2s linear;
+  padding: 5px 30px;
+  margin-left: 6px;
+  margin-right: 6px;
+
+}
+.qcld-modal-bargin-confirm-btn-yes:hover, 
+.qcld-modal-bargin-confirm-btn-no:hover,
+.qcld-modal-bargin-confirm-btn-checkout:hover,
+.qcld-modal-bargin-confirm-add-to-cart:hover,
+.qcld-chatbot-bargin-confirm-btn:hover,
+.qcld-modal-bargin-add-to-cart:hover{
+  background-position: right center;
+  box-shadow: none;
+  color: #fff;
+}
+
+
+.woo-chatbot-product-bargain-price.woo-chatbot-shake,
+.woo-chatbot-product-bargain-offer-price.woo-chatbot-shake,
+.woo-modal-product-bargain-offer-email.woo-chatbot-shake {
+  -webkit-animation: woo_chatbot_shake 0.3s cubic-bezier(.36,.07,.19,.97) both;
+  animation: woo_chatbot_shake 0.3s cubic-bezier(.36,.07,.19,.97) both;
+}
+
+.woo-chatbot-product-bargain-price_nego {
+  color:#000;
+  -webkit-animation: woo_chatbot_mover 0.6s infinite  alternate;
+  animation: woo_chatbot_mover 0.6s infinite  alternate;
+  padding-top: 15px;
+}
+
+.woo-chatbot-product-variation-move {
+  -webkit-animation: woo_chatbot_mover 0.6s infinite  alternate;
+  animation: woo_chatbot_mover 0.6s infinite  alternate;
+}
+
+@keyframes woo_chatbot_shake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  
+  20%, 80% {
+    transform: translate3d(2px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
+
+@-webkit-keyframes woo_chatbot_shake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  
+  20%, 80% {
+    transform: translate3d(2px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
+
+
+@-webkit-keyframes woo_chatbot_mover {
+    0% { transform: translateY(0); }
+    25% { transform: translateY(4px); }
+    50% { transform: translateY(8px); }
+    75% { transform: translateY(12px); }
+    100% { transform: translateY(16px); }
+}
+@keyframes woo_chatbot_mover {
+    0% { transform: translateY(0); }
+    25% { transform: translateY(4px); }
+    50% { transform: translateY(8px); }
+    75% { transform: translateY(12px); }
+    100% { transform: translateY(16px); }
+}
+
+
+
+
+#wpbot-map-product-modal-exit-wrap {
+    z-index: 999999999;
+    top: 50 !important;
+    width: 550px !important;
+    height: auto !important;
+    min-height: 350px !important;
+    overflow: auto;
+    background-color: rgba(255,255,255,1);
+    margin: 30px auto;
+    position: relative;
+    box-shadow: 3px 5px 20px #333;
+    border-radius: 0px;
+    transition: all .6s ease;
+}
+
+.woo-chatbot-products-bargain-exit-intent{
+  width: 100%;
+  height: 350px;
+  overflow: hidden;
+}
+.woo-chatbot-product-exit-intent-img{
+  width: 50%;
+  float: left;
+  height: 100%;
+  min-height: 350px;
+  border-right: 1px solid #ddd;
+}
+.woo-chatbot-product-exit-intent-img img{
+  width: 100%;
+  min-height: 350px;
+}
+
+
+#wpbot-map-product-modal-exit-wrap .mfp-close {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+}
+
+#wpbot-map-product-modal-exit-wrap .woo-chatbot-product-bargain-exit-intent{
+  width: 50%;
+  float: left;
+  padding: 5%;
+}
+#wpbot-map-product-modal-exit-wrap .woo-chatbot-product-bargain-exit-intent p{
+  font-size: 18px;
+  line-height: 25px;
+}
+#wpbot-map-product-modal-exit-wrap .woo-chatbot-product-bargain-exit-intent h5{
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: bold;
+  padding-bottom: 30px;
+  margin-bottom: 0px;
+}
+
+
+#wpbot-map-product-modal-exit-wrap .woo-chatbot-bargain-btn-exit-intent{
+  width: 100%;
+  clear: both;
+  display: flex;
+  margin-top: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+#wpbot-map-product-modal-exit-wrap .qcld-modal-bargin-confirm-exit-intent{
+  color: #000000;
+  background-image: linear-gradient(to right, #868afa 0%, #8fd3f4 51%, #2faafa 100%);
+  background-size: 200% auto;
+  box-shadow: 0 5px 15px #c3c3c3;
+  border: 1px solid #ffffff;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+  transition: 0.2s linear;
+  padding: 10px 15px;
+  font-size: 16px;
+}
+
+#wpbot-map-product-modal-exit-wrap .qcld-modal-bargin-confirm-exit-intent:hover{
+  background-position: right center;
+  box-shadow: none;
+  color: #fff;
+}
+
+
+@media(max-width: 480px){
+  #wpbot-map-product-modal-exit-wrap {
+    width: 100% !important;
+  }
+
+
+  #wpbot-map-product-modal-exit-wrap .woo-chatbot-product-bargain-exit-intent {
+    padding: 5% 2%;
+  }
+
+  #wpbot-map-product-modal-exit-wrap .woo-chatbot-product-bargain-exit-intent h5 {
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: bold;
+    padding-bottom: 15px;
+    margin-bottom: 0px;
+}
+
+
+  #wpbot-map-product-modal-exit-wrap .woo-chatbot-product-bargain-exit-intent p {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+  #wpbot-map-product-modal-exit-wrap .qcld-modal-bargin-confirm-exit-intent{
+    padding: 8px 5px;
+    font-size: 14px;
+  }
+
+}
+
+.woo-chatbot-product-bargain-msg p{
+  margin: 0 0 0px !important;
+}
+
+.woo-chatbot-product-price-modal span.woocommerce-Price-amount.amount {
+    display: block;
+    color: #333;
+    font-weight: 500;
+}
+
+
+.woo-chatbot-product-bargain-btn input.woo-chatbot-bargain-qty {
+    display: block;
+    width: 50px;
+    margin-bottom: 15px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid #ddd;
+    height: 25px;
+    line-height: 20px;
+    padding: 0px 0px 0px 0px;
+}
