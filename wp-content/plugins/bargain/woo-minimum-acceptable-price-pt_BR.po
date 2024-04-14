@@ -1,0 +1,928 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bargain\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-18 15:15+0000\n"
+"PO-Revision-Date: 2023-05-18 15:21+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.1\n"
+"X-Domain: woo-minimum-acceptable-price"
+
+#: wpbot-minimum-acceptable-price-function.php:20
+msgid " ( Enter the minimum acceptable price to make your offer now ) "
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-function.php:43
+#: wpbot-minimum-acceptable-price-variation.php:24
+msgid ""
+" ( If you are using a multi currency plugin, please use Percentage from the "
+"drop down for multi currency support. ) "
+msgstr ""
+"(Se você estiver usando um plug-in multimoeda, use Porcentagem no menu "
+"suspenso para suporte multimoeda.)"
+
+#: wpbot-minimum-acceptable-price-addon.php:577
+#, php-format
+msgid "%s  %s  %s"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:244
+msgid "Action Buttons for WooCommerce"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:287
+msgid "Added to cart"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:83
+msgid ""
+"All our Pro Version users get Premium, Guaranteed Quick, One on One Priority "
+"Support."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:216
+#: qc-support-promo-page/class-qc-support-promo-page.php:230
+#: qc-support-promo-page/class-qc-support-promo-page.php:302
+msgid "and"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:171
+msgid "and "
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:288
+msgid "and more!"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:426
+msgid "and the"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:143
+#: qc-support-promo-page/class-qc-support-promo-page.php:398
+msgid "any WordPress website"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:216
+msgid "are included."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:288
+msgid ""
+"are now easy to build and add to any WordPress page with just a few clicks."
+msgstr ""
+
+#. Name of the plugin
+msgid "Bargain"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:50
+msgid "Bargain Bot"
+msgstr ""
+
+#. Description of the plugin
+msgid "Bargain Bot for WooCommerce"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-function.php:17
+msgid "Bargain Bot Minimum Acceptable Price"
+msgstr "Bot - Preço Minimo Aceitável para o Bot Negociar"
+
+#: wpbot-minimum-acceptable-price-variation.php:14
+msgid "Bargain Bot Minimum Acceptable Price:"
+msgstr "Bot - Preço Minimo Aceitável para o Bot Negociar:"
+
+#: wpbot-minimum-acceptable-price-addon.php:124
+msgid "Bargaining Chatbot Settings"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:288
+msgid "Charts,"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:288
+msgid "Charts, Graphs and"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:301
+msgid "ChatBot Addons"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:129
+msgid "ChatBot for WooCommerce"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:102
+msgid "Check Out Some of Our Other Works that Might Make Your Website Better"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:171
+msgid "Cinematic Product Intro Adverts"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:481
+msgid "Coming Soon!"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:230
+msgid "Comment Tools Pro adds an arsenal of"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:229
+msgid "Comment Tools w/ Sentiment Analysis"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:280
+msgid "CONGRATULATIONS!"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:230
+msgid "content value"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:454
+#: qc-support-promo-page/class-qc-support-promo-page.php:468
+msgid "Crafted carefully to make the best out of the popular"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:426
+msgid ""
+"Crafted carefully to provide the best blogging experiences! One Click "
+"Install, Demo Data, Compatible with the"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:359
+msgid "Creative Themes"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:288
+msgid "Data Tables"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:143
+msgid "DialogFlow (AI and NLP)."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:186
+msgid ""
+"Directory plugin with a unique approach! Simple Link Directory is an "
+"advanced WordPress Directory plugin for One Page \n"
+"\t\t\t\t                            directory and Content Curation solution."
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:367
+msgid "Don't like the price?"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:426
+msgid "Elementor"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:129
+msgid "Email Settings"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:403
+msgid "Email Subject"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:395
+msgid "Emails will be Sent to"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:302
+msgid "Empower"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:141
+msgid "Enable Bargaining Chatbot"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:171
+msgid "Enable global maximum acceptable discount for all products"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:163
+msgid "Exclude sale items"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:128
+msgid "Exit Intent"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:342
+msgid "Exit Intent for product single page"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:354
+msgid "Exit Intent Show only once per visit."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:258
+msgid "Express Shop"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:259
+msgid ""
+"Express Shop is a WooCommerce addon to show all products in one page. User "
+"can add products to cart and go to checkout. \n"
+"\t\t\t\t                            Filtering and search integrated in "
+"single page."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:467
+msgid "Express Shop Theme"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:302
+msgid ""
+"Extend Capabilities with AddOns! FaceBook messenger, white label and more!"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:422
+msgid "For variable product"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:384
+msgid "for WooCommerce."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:454
+#: qc-support-promo-page/class-qc-support-promo-page.php:468
+msgid "for WooCommerce. Get a shopping theme that sells!"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:143
+#: qc-support-promo-page/class-qc-support-promo-page.php:398
+msgid "generate more leads"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:85
+msgid "GET PRIORITY SUPPORT"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:93
+msgid "Get Support for Free Version"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:414
+msgid "Getting started with bargain bot. "
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:179
+msgid "Global Product Discount"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:114
+msgid ""
+"glossary and FAQ features all in one.  KnowledgeBase HelpDesk is extremely "
+"simple and easy to use."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:370
+msgid "glossary and FAQ features all in one. Make the best out of our"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:143
+msgid "Google"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:426
+msgid "Gutenberg"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:130
+msgid "Help"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:413
+msgid "Help Section"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:172
+msgid "Hero sliders"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.quantumcloud.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.quantumcloud.com/products/plugins/"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:287
+msgid "iChart – Charts, Graphs and Data Tables"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:166
+msgid ""
+"If enabled Bargaining button will not display for products that are already "
+"on sale."
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:416
+msgid ""
+"If you enable Bargaining Chatbot option a new \"Minimum Acceptable Price\" "
+"field will be added along with all product which will be your last bargain "
+"price. You can set the minimum price with the product to get the \"Make Your "
+"Offer Now\" button visible."
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:144
+msgid ""
+"If you enable this option a new \"Minimum Acceptable Price\" field will be "
+"added along with all product which will be your last bargain price. You have "
+"to set the minimum price with the product to get the \"Make Your Offer Now\" "
+"button visible."
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:375
+msgid ""
+"If you have something on your mind, let us know your best offer. Maybe we "
+"can work something out together."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:202
+msgid "iList is first of its kind"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:288
+msgid "Import/Export"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:288
+msgid "in the Chart Data,"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:315
+msgid "Increase Sales"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:316
+msgid ""
+"Increase Sales is a new and unique WooCommerce addon that strategically "
+"places your cross-sells products inline inside, at top or bottom of the Cart "
+"during checkout."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:129
+#: qc-support-promo-page/class-qc-support-promo-page.php:384
+msgid "Increase your store Sales"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:230
+msgid "increases user interactivity"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:359
+msgid "Individual Exit Intent"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:362
+msgid "Individually work with Exit Intent if Disable Bargaining Chatbot"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:202
+msgid "InfoGraphic maker"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:201
+msgid "InfoGraphic Maker – iList"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:103
+msgid "Innovative Plugins"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:143
+msgid "Integrated with"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:230
+msgid "It"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:202
+msgid ""
+"It seems like you have not provided any offer amount. Please give me a "
+"number!"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:245
+msgid "JARVIS"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:113
+msgid "KB & HelpDesk w/ ChatBot"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:114
+#: qc-support-promo-page/class-qc-support-promo-page.php:370
+msgid ""
+"KnowledgeBase HelpDesk is an advanced Knowledgebase plugin with helpdesk"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:370
+msgid "KnowledgeBase X"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:369
+msgid "KnowledgeBase X Theme"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:432
+msgid "Language Change"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:383
+msgid "Let's Make a Deal"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:153
+msgid "Lightbox Modal"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:288
+msgid "Links"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:230
+msgid "low quality comments and"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:194
+msgid "Make me an offer that I cannot refuse!"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:384
+#: qc-support-promo-page/class-qc-support-promo-page.php:398
+msgid "Make the best out of the popular"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:187
+msgid "Make Your Offer Now"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:308
+msgid "Modal Checkout Now button text"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:322
+msgid "Modal No Button Text"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:329
+msgid "Modal OR button text"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:301
+msgid "Modal Submit button text"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:315
+msgid "Modal Yes Button Text"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:23
+msgid "More WordPress Goodies for You!"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:273
+msgid "Negotiating your price..."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:230
+msgid "of your blog."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:86
+msgid "Online KnowledgeBase"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:426
+msgid "Page Builder!"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:129
+msgid "perceptibly."
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:259
+msgid "Please tell me your email address so I can get back to you."
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:252
+msgid "Please tell me your final price. I will talk to my boss."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:384
+msgid "Plug n’ play"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:370
+msgid "plugin"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:216
+msgid "Portfolio Showcase"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:216
+msgid "Portfolio Widgets"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:215
+msgid "Portfolio X"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:216
+msgid ""
+"Portfolio X is an advanced, responsive portfolio with streamlined workflow "
+"and unique designs and templates to show your works or projects."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:230
+msgid "practical tools"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:358
+msgid "Premium Themes that Add Perceptible Value to Your Website."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:288
+msgid "Preview"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:425
+msgid ""
+"Product details page you will see a button called \"Make Your Offer Now\""
+msgstr ""
+
+#. Author of the plugin
+msgid "QunatumCloud"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:230
+msgid "reduces spammy"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:288
+msgid "Responsive, HTML5"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:412
+msgid "SBD plugin"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:329
+msgid "SEO Help"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:330
+msgid ""
+"SEO Help is a unique WordPress plugin to help you write better Link Bait "
+"titles. The included LinkBait title generator will take the \n"
+"\t\t\t\t    \t\t\t\t\t\tWordPress post title as Subject and generate "
+"alternative ClickBait titles for you to choose from."
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:127
+msgid "Settings"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:384
+msgid "Shopping Chat Bot that can help"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:238
+msgid ""
+"Should we finalize the deal and add the product to you cart so you can check "
+"out?"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:351
+msgid "Show only once per visit."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:245
+msgid ""
+"shows recent user activities, provides advanced search, floating cart, "
+"featured products, store notifications, order notifications – all in one "
+"place for easy access by buyer and make quick decisions."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:157
+#: qc-support-promo-page/class-qc-support-promo-page.php:412
+msgid "Simple &amp; Multi-purpose Business Directory"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:425
+msgid "Simple Blog Theme"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:411
+msgid "Simple Business Directory Theme"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:156
+msgid "Simple Business Directory w/ Maps"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:185
+msgid "Simple Link Directory"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:440
+msgid ""
+"Simple Link Directory is an advanced WordPress Directory plugin for One Page "
+"directory and Content Curation solution. Get the best of the SLD plugin!"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:439
+msgid "Simple Link Directory Theme"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:170
+msgid "Slider Hero"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:171
+msgid "Slider Hero is a unique slider plugin that allows you to create"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:344
+msgid "Something Exciting"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:24
+msgid "Support"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:288
+msgid "text, Live Chart"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:266
+msgid "Thank you. We will get back to you ASAP!"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:143
+#: qc-support-promo-page/class-qc-support-promo-page.php:398
+msgid "that can improve user engagement, answer questions &amp; help"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:224
+msgid "The best we can do for you is {minimum amount}. Do you accept?"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:412
+msgid "theme is perfect for our"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:157
+#: qc-support-promo-page/class-qc-support-promo-page.php:412
+msgid "This innovative and powerful, yet"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:412
+msgid "to meet all your business directory needs."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:288
+msgid "ToolTip"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:345
+msgid "Trigger bargain bot on Exit Intent for product single pages"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-variation.php:23
+msgid "Type"
+msgstr "Tipo"
+
+#: wpbot-minimum-acceptable-price-addon.php:156
+msgid "Use Lightbox Modal instead of WoowBot for bargaining"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:428
+msgid ""
+"When user clicks on the \"Make Your Offer Now\" button the Lightbox Modal "
+"will open and show the product image, title, regular price & sale price. "
+"Then user can submit their offer price."
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:419
+msgid ""
+"When you enable Bargain Bot a new field called \"Minimum Acceptable Price\" "
+"will be added under \"Sale price\" field in General tab of every Product "
+"Edit Page. You have to add your minimum acceptable price for each product on "
+"which you want to display the Make your offer now button."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:172
+msgid "with great Javascript animation effects."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:129
+msgid ""
+"with zero configuration or bot training required. This WooCommerce based "
+"Shop Bot that can help"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:273
+msgid "Woo Tabbed Category Products"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:383
+msgid "WooCommerce ChatBot Theme"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:274
+msgid ""
+"WooCommerce plugin that allows you to showcase your products category wise "
+"in tabbed format. This is a unique woocommerce plugin that lets dynaimically "
+"load your products in tabs based on your product categories ."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:245
+msgid "WooCommerce Shop Assistant –"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:454
+#: qc-support-promo-page/class-qc-support-promo-page.php:468
+msgid "WooTabbed"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:453
+msgid "WooTabbed Theme"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:302
+msgid "WoowBot"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:129
+msgid "WooWBot is a"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:384
+msgid "WoowBot is a"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:384
+msgid "WoowBot plugin"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:128
+msgid "WoowBot WooCommerce ChatBot"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:157
+msgid ""
+"WordPress PlugIn allows you to create comprehensive Lists of Businesses with "
+"maps and tap to call features."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:202
+msgid ""
+"WordPress plugin to create Infographics and elegant Lists effortlessly to "
+"visualize data. It is a must have content creation and content curation tool."
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:302
+msgid "WPBot"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:143
+#: qc-support-promo-page/class-qc-support-promo-page.php:398
+msgid "WPBot is a ChatBot for"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:398
+msgid "WPBot plugin"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:142
+msgid "WPBot – ChatBot for WordPress"
+msgstr ""
+
+#: qc-support-promo-page/class-qc-support-promo-page.php:397
+msgid "WPBot – ChatBot Master Theme"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:174
+msgid ""
+"You can also define Minimum Acceptable Price under individual product to "
+"Override the global value."
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:182
+msgid ""
+"You can also define Minimum Acceptable Price under individual product "
+"without enabling Global discount."
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:190
+#: wpbot-minimum-acceptable-price-addon.php:370
+#: wpbot-minimum-acceptable-price-addon.php:378
+#: wpbot-minimum-acceptable-price-addon.php:386
+msgid "You can change the button text as your needs."
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:399
+msgid "You can change the Email Address as your needs."
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:197
+#: wpbot-minimum-acceptable-price-addon.php:406
+msgid "You can change the heading text as your needs."
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:213
+#: wpbot-minimum-acceptable-price-addon.php:220
+msgid ""
+"You can change the Low price alert text as your needs. variable:- {offer "
+"price}"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:227
+msgid ""
+"You can change the Low price alert text as your needs. variable:- {offer "
+"price}, {minimum amount}"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:241
+#: wpbot-minimum-acceptable-price-addon.php:255
+#: wpbot-minimum-acceptable-price-addon.php:262
+#: wpbot-minimum-acceptable-price-addon.php:269
+#: wpbot-minimum-acceptable-price-addon.php:276
+#: wpbot-minimum-acceptable-price-addon.php:283
+#: wpbot-minimum-acceptable-price-addon.php:290
+#: wpbot-minimum-acceptable-price-addon.php:297
+#: wpbot-minimum-acceptable-price-addon.php:304
+#: wpbot-minimum-acceptable-price-addon.php:311
+#: wpbot-minimum-acceptable-price-addon.php:318
+#: wpbot-minimum-acceptable-price-addon.php:325
+#: wpbot-minimum-acceptable-price-addon.php:332
+msgid "You can change the Response text as your needs."
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:248
+msgid ""
+"You can change the Response text as your needs.  variable:- {offer price}"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:234
+msgid ""
+"You can change the Response text as your needs. variable:- {offer price}"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:205
+msgid "You can change the text as your needs."
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:433
+msgid ""
+"You can customize language as your need. The default languages are fine for "
+"stores using the English language. But you can change the bargain bot "
+"responses literally into any language!"
+msgstr ""
+"Você pode personalizar o idioma conforme sua necessidade. Os idiomas padrão "
+"são adequados para lojas que usam o idioma inglês. Mas você pode alterar as "
+"respostas do bot de barganha literalmente para qualquer idioma!"
+
+#: wpbot-minimum-acceptable-price-function.php:258
+#: wpbot-minimum-acceptable-price-function.php:559
+#: wpbot-minimum-acceptable-price-variation.php:123
+msgid "You have no products"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:245
+msgid ""
+"Your offer {offer price} is more than I could take. Please purchase at our "
+"original cost."
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:231
+msgid "Your offered price {offer price} is acceptable."
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:217
+msgid "Your offered price {offer price} is too low for us."
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:210
+msgid "Your offered price {offer price} is too low for us. Can you do better?"
+msgstr ""
+
+#: wpbot-minimum-acceptable-price-addon.php:294
+msgid "Your product successfully added to cart"
+msgstr ""

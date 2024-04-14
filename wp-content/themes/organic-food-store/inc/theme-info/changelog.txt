@@ -1,0 +1,11 @@
+= 1.0.3 =
+* Skip link issue fixed.
+
+= 1.0.2 =
+* Animate.css license updated.
+
+= 1.0.1 =
+* Blog Home Header tag updated.
+
+= 1.0.0 =
+* Initial Release.

@@ -1,0 +1,1 @@
+importScripts('https://cdn.webpush.vn/WebPushWorkerSDK.js');

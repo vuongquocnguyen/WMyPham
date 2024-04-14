@@ -1,0 +1,16 @@
+2024-04-03T06:52:25+00:00 ERROR POST Request: https://api.pinterest.com/v3/websites/verification/metatag/realtime/?website=localhost/WMyPham
+Status Code: 403
+API response: Your website is in the process of being claimed and should be verified shortly.
+Pinterest Code: 75
+2024-04-03T06:52:32+00:00 ERROR POST Request: https://api.pinterest.com/v3/websites/verification/metatag/realtime/?website=localhost/WMyPham
+Status Code: 403
+API response: Your website is in the process of being claimed and should be verified shortly.
+Pinterest Code: 75
+2024-04-03T06:52:39+00:00 ERROR POST Request: https://api.pinterest.com/v3/websites/verification/metatag/realtime/?website=localhost/WMyPham
+Status Code: 403
+API response: Your website is in the process of being claimed and should be verified shortly.
+Pinterest Code: 75
+2024-04-03T06:52:46+00:00 ERROR POST Request: https://api.pinterest.com/v3/websites/verification/metatag/realtime/?website=localhost/WMyPham
+Status Code: 403
+API response: Your website is in the process of being claimed and should be verified shortly.
+Pinterest Code: 75
